@@ -1,4 +1,4 @@
-# Task Tracker by Shakhzod Okhunjonov
+# Task Tracker 
 
 A basic but intuitive Task Tracker application.
 
